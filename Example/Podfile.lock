@@ -1,0 +1,16 @@
+PODS:
+  - BrainergyPrescreen (0.1.0)
+
+DEPENDENCIES:
+  - BrainergyPrescreen (from `../`)
+
+EXTERNAL SOURCES:
+  BrainergyPrescreen:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BrainergyPrescreen: de06910506d022a4b02f9cc2799e1dcb5cb6bd4e
+
+PODFILE CHECKSUM: fe082d39e454a2741f06a6e5803c5b44afe01e81
+
+COCOAPODS: 1.11.3
