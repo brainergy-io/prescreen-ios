@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        Prescreen.shareInstance.initialize(apiKey: "At5FTeV8eZtUYxgWurro")
+        Prescreen.shareInstance.initialize(apiKey: "SFYwqgq08VhcCPjMERYt")
         configure()
     }
 
